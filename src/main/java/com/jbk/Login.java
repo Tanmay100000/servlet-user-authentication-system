@@ -45,7 +45,7 @@ public class Login extends HttpServlet{
 		    if (rs.next()) {
 		        System.out.println("Login Successful");
 		        out.println("Login Successful");
-		        RequestDispatcher rd = req.getRequestDispatcher("/Profile.html");
+		        RequestDispatcher rd = req.getRequestDispatcher("/home.html");
 		        rd.forward(req, resp);
 		    } else {
 		        System.out.println("Invalid Credentials");
