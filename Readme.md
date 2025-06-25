@@ -6,7 +6,7 @@ This project is a simple **User Authentication System** developed using **Java S
 
 
 
-## í´§ Technologies Used
+##  Technologies Used
 
 
 
@@ -22,7 +22,7 @@ This project is a simple **User Authentication System** developed using **Java S
 
 
 
-## í³Œ Features
+## Features
 
 
 
@@ -36,7 +36,7 @@ This project is a simple **User Authentication System** developed using **Java S
 
 
 
-## íº€ How to Run
+##  How to Run
 
 
 
